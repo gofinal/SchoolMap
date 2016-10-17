@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">校园导航</string>
+    <string name="snipped_xuexiao">兰州财经大学陇桥学院于2000年3月经甘肃省政府批准成立，位于兰州市和平开发区，校园面积41.7万平方米（625.64亩），建筑面积20万平方米；藏书138万册（含34万册电子图书）。是国家教育部第一批确认的全日制普通本科层次独立学院。现有全日制在校本科生11943人，教职工892人。设有经济贸易、财政金融、法学、外国语言文学、艺术设计、土木工程、信息工程、工商管理、会计学9个系及4个教学部。</string>
+    <string name="xueshubaogaoting">学术报告厅</string>
+    <string name="shiyanlou">实验楼</string>
+    <string name="tushuguan">图书馆</string>
+    <string name="shitang">食堂</string>
+    <string name="tiyuguan">体育馆</string>
+    <string name="caochang">操场</string>
+    <string name="keyanlou">科研楼</string>
+    <string name="null_data">暂无数据</string>
+    <string name="shiyanlou_s">学院实施创新创业教育计划，卓越人才培养计划，实验楼建设“大商科综合仿真实训平台”，培养学生的创新意识和实践能力。</string>
+    <string name="tushuguan_s">陇桥学院图书馆建筑面积13000多平方米，馆藏纸质图书总量为75万册，电子图书28万册，学术论文10万篇，其中经济类、管理类图书占61.53%，过刊2.3万余册，每年订购中外文期刊740多种，报纸100多种。 现设有六个书库，分别为文学类书库，社科类书库，经济类书库，外语、计算机、教育、社会科学书库 ，法律、艺术、宗教、哲学书库，专业教学用书涵盖了经济学、法学、文学、管理学、工学、艺术学等学科</string>
+    <string name="shitang_s">学校食堂有民族食堂和传统食堂，菜色丰富！</string>
+</resources>

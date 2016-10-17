@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_school_details"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.zhi.schoolmap.SchoolDetailsActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@mipmap/xuexiao"
+        android:scaleType="centerCrop"/>
+    <include layout="@layout/toolbar_layout"/>
+
+
+    <TextView
+        android:layout_below="@+id/toolbar_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/snipped_xuexiao"
+        android:layout_margin="16dp"/>
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="进入地图"
+        android:layout_alignParentRight="true"
+        android:layout_margin="16dp"
+        android:background="@color/btn_blue"
+        android:textColor="@color/white"/>
+</RelativeLayout>

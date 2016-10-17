@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="map_bg_bottom">#E0E0E0</color>
+    <color name="white">#FFFFFF</color><!--白色 -->
+    <color name="btn_blue">#0288D1</color>
+</resources>
