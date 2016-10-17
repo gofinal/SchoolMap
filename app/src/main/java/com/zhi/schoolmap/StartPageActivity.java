@@ -18,6 +18,7 @@ public class StartPageActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 startActivity(new Intent(StartPageActivity.this,SchoolDetailsActivity.class));
+
             }
         });
     }
